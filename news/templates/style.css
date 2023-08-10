@@ -1,0 +1,10 @@
+.container{
+    text-align: center;
+    font-size: 32px;
+    background-color: black;
+}
+
+.card-text{
+    font-size: 20px;
+    color: red;
+}
